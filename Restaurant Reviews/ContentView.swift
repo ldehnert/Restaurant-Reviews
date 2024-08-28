@@ -11,7 +11,7 @@ struct ContentView: View {
     var body: some View {
         VStack {
             Image(systemName: "figure.run")
-                .foregroundColor(Color(hue: 1.0, saturation: 0.451, brightness: 0.679))
+                .foregroundColor(Color(hue: 1.0, saturation: 0.451, brightness: 0.678))
                 .frame(width: 0.0)
                 .imageScale(.large)
                 .foregroundStyle(.tint)
